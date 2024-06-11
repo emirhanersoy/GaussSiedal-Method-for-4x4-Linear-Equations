@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\bin\Debug\GaussSiedal.exe.config
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\bin\Debug\GaussSiedal.exe
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\bin\Debug\GaussSiedal.pdb
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\obj\Debug\GaussSiedal.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\obj\Debug\GaussSiedal.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\obj\Debug\GaussSiedal.exe
+C:\Users\Emirhan\Desktop\GaussSiedal\GaussSiedal\obj\Debug\GaussSiedal.pdb
